@@ -30,6 +30,7 @@ class Main  {
 						levelDOWN(commands[1]);	
 					}
 				}
+				
 			} 
 			System.out.print(url+"$ ");
 		}
